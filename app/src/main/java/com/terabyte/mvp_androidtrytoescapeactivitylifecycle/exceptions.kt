@@ -1,0 +1,3 @@
+package com.terabyte.mvp_androidtrytoescapeactivitylifecycle
+
+class NullPresenterException: Exception()
